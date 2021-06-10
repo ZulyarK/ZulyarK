@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-![](http://antzuhl.cn:4000/get/@ZulyarK.readme)
-![info](https://github-readme-stats.vercel.app/api?username=ZulyarK&show_icons=true&count_private=true&hide=prs&theme=tokyonight)
-# Platform&Tools
+- 前端学习中
+
 ![](https://img.shields.io/badge/windows-10-292e33?style=flat-square&logo=Windows&logoColor=ffffff)
 
 
@@ -15,3 +14,4 @@
 ![](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=ffffff)
 
 ![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)
+
