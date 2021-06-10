@@ -1,10 +1,17 @@
 ### Hi there 👋
-![](https://visitor-badge.glitch.me/badge?page_id=ZulyarK.readme)
+
 ![](http://antzuhl.cn:4000/get/@ZulyarK.readme)
 ![info](https://github-readme-stats.vercel.app/api?username=ZulyarK&show_icons=true&count_private=true&hide=prs&theme=tokyonight)
 # Platform&Tools
-[![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=E8E8E8)
+![](https://img.shields.io/badge/windows-10-292e33?style=flat-square&logo=Windows&logoColor=ffffff)
 
-[![](https://img.shields.io/badge/CSS3-F7DF1E?style=flat-square&logo=JavaScript&logoColor=1572B6)
 
-[![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/antzuhl)
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=ffffff)
+![](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=ffffff)
+![](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=ffffff)
+![](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=ffffff)
+![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
+![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=ffffff)
+![](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=ffffff)
+
+![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)
