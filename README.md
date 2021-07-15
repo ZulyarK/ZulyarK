@@ -1,10 +1,6 @@
 ### - 前端学习中👋
-# 6月待做事项
-- 帮xx做 静态作业网站
-- 看完javasript jquery前内容
-- 开始看vue 官方文档或学习视频
-- 【主攻】 操作系统 计算机网络期末
-- 搭建github个人博客
+# 7月
+- JavaScript
 
 ![](https://img.shields.io/badge/windows-10-292e33?style=flat-square&logo=Windows&logoColor=ffffff)
 
