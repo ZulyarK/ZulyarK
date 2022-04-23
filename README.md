@@ -1,4 +1,4 @@
-### - 👋 hi there,我是祖力，目前还在成为前端开发的道路上
+### - 👋 my code is cleaner to my room
 
 ![](https://img.shields.io/badge/windows-10-292e33?style=flat-square&logo=Windows&logoColor=ffffff)
 
