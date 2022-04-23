@@ -1,4 +1,4 @@
-### - 👋 my code is cleaner to my room
+### - 👋 Work a step a day
 
 ![](https://img.shields.io/badge/windows-10-292e33?style=flat-square&logo=Windows&logoColor=ffffff)
 
